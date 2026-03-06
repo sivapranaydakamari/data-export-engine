@@ -1,0 +1,12 @@
+node_modules/
+
+.env
+
+exports/
+*.csv
+export*.json
+*.xml
+*.parquet
+
+.vscode/
+.idea/
